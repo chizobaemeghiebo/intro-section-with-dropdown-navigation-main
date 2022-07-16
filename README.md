@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](intro-section-wirh-dropdown-menu-by-me.netlify.app)
+- Live Site URL: [Live site](intro-section-wirh-dropdown-menu-by-me.netlify.app)
 
 ## My process
 
