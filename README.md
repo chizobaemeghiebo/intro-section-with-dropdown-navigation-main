@@ -69,7 +69,7 @@ function removeActiveClass(e) {
 
 ### Continued development
 
-For future projects ill be focusing more on javascript for drop down menus and learn more fun ways to incorporate it in my websites.
+For future projects I'll be focusing more on javascript for drop down menus and learn more fun ways to incorporate it in my websites.
 
 ## Author
 
